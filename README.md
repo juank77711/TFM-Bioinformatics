@@ -3,7 +3,7 @@
 Repositorio asociado al Trabajo Fin de Máster: **“Integración multiestudio de datos de scRNA-seq para la generación de un atlas celular pulmonar: un enfoque técnico-metodológico reproducible”**.
 
 > **Autor:** Juan Carlos Aguado Seminario · **Directora:** Sheila Zúñiga Trejos  
-> **Titulación:** Máster en Bioinformática (2024–2025) · **Fecha:** 1 Septiemnbre 2025
+> **Titulación:** Máster en Bioinformática (2024–2025) · **Fecha:** 1 Septiembre 2025
 
 ---
 
